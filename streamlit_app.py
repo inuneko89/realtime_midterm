@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime, timedelta
 
+
 # Define a modern color palette
 COLORS = {
     'primary': '#3E2723',  # Dark brown
